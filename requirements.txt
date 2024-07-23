@@ -1,0 +1,5 @@
+openai
+openai-whisper
+torchaudio
+playsound
+elevenlabs
