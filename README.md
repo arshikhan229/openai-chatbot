@@ -98,8 +98,3 @@ This project is licensed under the MIT License.
 
 - OpenAI for providing the GPT-3.5-turbo and Whisper models.
 - Eleven Labs for their voice cloning and text-to-speech tools.
-
----
-
-You can create a file named `README.md` in your project directory and copy the above content into it. Additionally, rename the `answer123.py` script to `voice_assistant.py` to better reflect its purpose.
-
